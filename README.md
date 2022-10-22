@@ -8,7 +8,7 @@
 * Aplicação voltada para a monitorar as finanças
 
 ## :wrench: Tecnologias utilizadas
-* TypeScript
+* TypeScript 
 * ReactJs
 * Phosphoricons
 * Styled Components
