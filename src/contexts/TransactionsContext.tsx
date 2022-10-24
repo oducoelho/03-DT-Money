@@ -73,7 +73,7 @@ export const TransactionsProvider = ({
         fetchTransactions,
         createTransaction,
       }}
-    >
+    > 
       {children}
     </TransactionsContext.Provider>
   )
